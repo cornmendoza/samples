@@ -10,7 +10,7 @@ Modify the generated dotnetweb-1-1.runtimeconfig.json file in the release direct
   "runtimeOptions": {
     "framework": {
       "name": "Microsoft.NETCore.App",
-      "version": "1.1.0"  <--- Updated for 1.1.0 support
+      "version": "1.1.0"  <--- Updated from 1.1.1 to 1.1.0 
     },
     "configProperties": {
       "System.GC.Server": true
