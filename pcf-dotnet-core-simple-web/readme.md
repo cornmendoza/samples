@@ -4,7 +4,7 @@
 
 > dotnet publish --configuration Release
 
-Modify the generated dotnetweb-1-1.runtimeconfig.json file in the release directory to use with Cloud Foundry until support for .NET Core 1.1.1 is provided
+Modify the generated dotnetweb-1-1.runtimeconfig.json file in the bin/Release/netcoreapp1.1/publish directory to use with Cloud Foundry until support for .NET Core 1.1.1 is provided
 
 {
   "runtimeOptions": {
